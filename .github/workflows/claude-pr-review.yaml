@@ -28,7 +28,7 @@ jobs:
               uses: actions/checkout@v6
 
             # TODO(@pzmarzly): Unpin once https://github.com/anthropics/claude-code-action/issues/1013 is fixed.
-            - uses: anthropics/claude-code-action@v1.0.66
+            - uses: anthropics/claude-code-action@v1
               with:
                   # Anthropic/OpenRouter auth
                   anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
