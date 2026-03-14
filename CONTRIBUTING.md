@@ -33,3 +33,4 @@ Please read the style guide before submitting patches.
 <!-- opus-go -->
 <!-- fix -->
 <!-- inline-c2 -->
+<!-- lint -->
