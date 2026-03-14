@@ -41,3 +41,4 @@ Please read the style guide before submitting patches.
 <!-- shell-v2 -->
 <!-- final-shell -->
 <!-- go-shell -->
+<!-- go-final -->
