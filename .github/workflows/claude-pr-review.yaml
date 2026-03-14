@@ -26,7 +26,7 @@ jobs:
                   show_full_output: "true"
                   prompt: |
                       Review this PR. Follow the project's review process:
-                      1. Install the project linter: pip install ./tools/bpfilter-lint/
+                      1. Install the project linter: pip install --no-cache-dir --force-reinstall ./tools/bpfilter-lint/
                       2. Run the linter: bpfilter-lint
                       3. Review the diff: gh pr diff ${{ github.event.pull_request.number }}
                       4. Post a review comment summarizing your findings
