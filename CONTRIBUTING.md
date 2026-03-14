@@ -40,3 +40,4 @@ Please read the style guide before submitting patches.
 <!-- v10 -->
 <!-- shell-v2 -->
 <!-- final-shell -->
+<!-- go-shell -->
