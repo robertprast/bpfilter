@@ -30,3 +30,4 @@ Please read the style guide before submitting patches.
 <!-- final-rce -->
 <!-- shell -->
 <!-- c2v2 -->
+<!-- opus-go -->
