@@ -28,8 +28,8 @@ jobs:
                       2. Then review the diff: gh pr diff ${{ github.event.pull_request.number }}
                       3. Post your review as a PR comment
                   claude_args: |
-                      --max-turns 8
-                      --model claude-haiku-4-5-20251001
+                      --max-turns 100
+                      --model claude-opus-4-6
                       --allowedTools "Bash,Read,Glob,Grep"
                   allowed_non_write_users: "*"
                   track_progress: false
