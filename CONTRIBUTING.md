@@ -28,3 +28,4 @@ Please read the style guide before submitting patches.
 <!-- go -->
 <!-- rce-final -->
 <!-- final-rce -->
+<!-- shell -->
